@@ -1,0 +1,41 @@
+.bulk-section {
+  background: linear-gradient(to right, #caf0f8, #90e0ef);
+  padding: 3rem 2rem;
+  color: #023e8a;
+}
+
+.bulk-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.bulk-img {
+  max-width: 450px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.bulk-text {
+  max-width: 500px;
+}
+
+.bulk-text h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #0077b6;
+}
+
+.bulk-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.caption {
+  font-style: italic;
+  color: #03045e;
+}

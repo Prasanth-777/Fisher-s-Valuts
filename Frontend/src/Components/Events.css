@@ -1,0 +1,33 @@
+.events-section {
+  background: linear-gradient(to top right, #ade8f4, #48cae4);
+  padding: 3rem 2rem;
+  text-align: center;
+  color: #023e8a;
+}
+
+.events-section h2 {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  color: #0077b6;
+}
+
+.events-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.events-img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.events-description {
+  max-width: 700px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  padding: 0 1rem;
+}
